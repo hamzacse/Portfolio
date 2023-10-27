@@ -27,12 +27,12 @@ const siteProps = {
   name: "Hamza",
   title: "ROS2 developer & AI enthusiast",
   email: "itshamzakhan2002@gmail.com",
-  gitHub: "https://github.com/hamzacse",
-  instagram: "https://www.instagram.com/hamzah._.khan/",
-  linkedIn: "https://www.linkedin.com/in/hamzacse/",
+  gitHub: "hamzacse",
+  instagram: "hamzah._.khan/",
+  linkedIn: "hamzacse/",
   medium: "",
   twitter: "",
-  youTube: "https://www.youtube.com/@hamzakhan4311",
+  youTube: "@hamzakhan4311",
 };
 
 const primaryColor = "#4E567E";
